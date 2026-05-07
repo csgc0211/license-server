@@ -11,7 +11,7 @@
         "Phone Number": "-",
         
         "status": "active",
-        "expires": "lifetime",
+        "expires": "31 - Dic - 2026",
         "plan": "Anual"
     }
 
@@ -21,7 +21,7 @@
         "Phone Number": "-",
         
         "status": "active",
-        "expires": "Nunca",
-        "plan": "Lifetime"
+        "expires": "31 - Dic - 2026",
+        "plan": "Anual"
     }
 }
