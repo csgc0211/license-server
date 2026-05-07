@@ -14,4 +14,14 @@
         "expires": "lifetime",
         "plan": "Anual"
     }
+
+    "EEEBC74E-5370-734F-955F-5AB6A5484FD2": {
+        "name": "Bismark",
+        "email": "-",
+        "Phone Number": "-",
+        
+        "status": "active",
+        "expires": "Nunca",
+        "plan": "Lifetime"
+    }
 }
