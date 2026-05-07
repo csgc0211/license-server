@@ -1,27 +1,26 @@
 {
-    "TEST-PC-123": {
-        "status": "active",
-        "expires": "2026-12-31",
-        "plan": "lifetime"
-    },
+    "minimum_version": "1.4",
 
-    "B8FE3BBA-585B-0DBC-6D86-D45D64AFDFFB": {
-        "name": "PC Principal",
-        "email": "-",
-        "Phone Number": "-",
-        
-        "status": "active",
-        "expires": "31 - Dic - 2026",
-        "plan": "Anual"
-    }
+    "licenses": {
 
-    "EEEBC74E-5370-734F-955F-5AB6A5484FD2": {
-        "name": "Bismark",
-        "email": "-",
-        "Phone Number": "-",
-        
-        "status": "active",
-        "expires": "31 - Dic - 2026",
-        "plan": "Anual"
+        "B8FE3BBA-585B-0DBC-6D86-D45D64AFDFFB": {
+            "name": "PC Principal",
+            "email": "-",
+            "Phone Number": "-",
+            
+            "status": "active",
+            "expires": "31 - Dic - 2026",
+            "plan": "Anual"
+        },
+    
+        "EEEBC74E-5370-734F-955F-5AB6A5484FD2": {
+            "name": "Bismark",
+            "email": "-",
+            "Phone Number": "-",
+            
+            "status": "active",
+            "expires": "31 - Dic - 2026",
+            "plan": "Anual"
+        }    
     }
 }
