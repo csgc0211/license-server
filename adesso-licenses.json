@@ -21,6 +21,17 @@
             "status": "active",
             "expires": "31 - Dic - 2026",
             "plan": "Anual"
-        }    
+        },   
+
+        "85BE33CC-3410-11B2-A85C-F78B368BC810": {
+            "name": "Laptop Lenovo",
+            "email": "-",
+            "Phone Number": "-",
+            
+            "status": "active",
+            "expires": "31 - Dic - 2026",
+            "plan": "Anual"
+        }  
+        
     }
 }
